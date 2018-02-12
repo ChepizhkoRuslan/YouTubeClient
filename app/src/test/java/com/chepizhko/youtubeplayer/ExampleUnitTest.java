@@ -1,4 +1,4 @@
-package youtubeplayer.chepizhko.com.youtubeclient;
+package com.chepizhko.youtubeplayer;
 
 import org.junit.Test;
 

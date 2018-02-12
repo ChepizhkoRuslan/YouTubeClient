@@ -1,4 +1,4 @@
-package youtubeplayer.chepizhko.com.youtubeclient;
+package com.chepizhko.youtubeplayer;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("youtubeplayer.chepizhko.com.youtubeclient", appContext.getPackageName());
+        assertEquals("com.chepizhko.youtubeplayer", appContext.getPackageName());
     }
 }
